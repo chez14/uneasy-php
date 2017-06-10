@@ -1,0 +1,16 @@
+{
+    "name": "chez14/uneasy-php",
+    "description": "A proof that we can beat the bot without requiring user enter someting",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris",
+            "email": "gunawan.mr.blue@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "tholu/php-packer": "^0.2.0"
+    }
+}
