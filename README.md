@@ -1,4 +1,4 @@
-# Uneasy PHP (Still in developt)
+# Uneasy PHP (Still in development)
 This project are ittended to challange myself to make a better
 mechanism of security. This project are actually aplicable with
 super minimalism requirement, such as PHP 7 (which is pretty
