@@ -1,10 +1,10 @@
 # Uneasy PHP (Still in development)
-This project are ittended to challange myself to make a better
-mechanism of security. This project are actually aplicable with
+This project is intended to challenge myself to make a better
+mechanism of security. This project is actually aplicable with
 super minimalism requirement, such as PHP 7 (which is pretty
-common now) and [Composer](https://getcomposer.com) (optional lah).
+common now) and [Composer](https://getcomposer.com) (optional _lah_).
 
-### Usefull Links:
+### Useful Links:
 - [Back Story](docs/backstory.en.md)
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
@@ -14,9 +14,9 @@ common now) and [Composer](https://getcomposer.com) (optional lah).
 - [Special Thanks](#special-thanks)
 
 ## Requirements
-- PHP5.6 or PHP7 (Recomended PHP7)
+- PHP5.6 or PHP7 (PHP7 recommended)
 - Composer (Optional, we'll just use the autoload and it's manager)
-- A glass of coffe
+- A glass of coffee
 
 ## Getting Started
 - Do this:
@@ -26,16 +26,16 @@ common now) and [Composer](https://getcomposer.com) (optional lah).
   This will download and install required dependencies to your current
   working directory after create vendor directory. No need to worry,
   just easily delete your working directory if something gone bad.
-- Then setting your apache vhost to your current working directory,
+- Then set your apache vhost to your current working directory,
   or, use PHP Built-in Development Server
   ```shell
   $ php -S localhost:8081
   ```
 - Access `http://localhost:8081/` to see the basic demo.
 
-Most of the algorithms will be made into a meaningfull package, but currently it's still builted in onto this project.
+Most of the algorithms will be made into a meaningful package, but currently it's still built in onto this project.
 
-# How is it work
+# How it works
 
 ## Strategy:
 - Generate Payload
@@ -72,7 +72,7 @@ to have following functions:
 
 # Misc
 ## Special Thanks
-This project are basicly depends on [Dean Edwards' Packer](http://dean.edwards.name/packer/) Project, ported by [this repo](https://github.com/tholu/php-packer). Thanks to them.
+This project basically depends on [Dean Edwards' Packer](http://dean.edwards.name/packer/) Project, ported by [this repo](https://github.com/tholu/php-packer). Thanks to them.
 
 ## License
 MIT, [here's a proof](LICENSE).
